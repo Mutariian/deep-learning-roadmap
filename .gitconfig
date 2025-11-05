@@ -1,0 +1,5 @@
+[user]
+	name = Mutariian
+	email = mutari.ian22@students.dkut.ac.ke
+[http]
+	sslBackend = schannel
